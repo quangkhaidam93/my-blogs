@@ -1,4 +1,4 @@
-baseURL = 'https://quangkhaidam93.github.io/'
+baseURL = 'https://quangkhaidam93.github.io/my-blogs/'
 languageCode = 'en-us'
 title = 'DQK Dev Blog'
 theme = "hugo-blog-awesome"
