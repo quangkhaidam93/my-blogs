@@ -1,4 +1,4 @@
-name: GitHub Pages
+name: Publish to GitHub Pages
 
 on:
   push:
@@ -20,8 +20,8 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: "0.127.0+extended"
-          # extended: true
+          hugo-version: "latest"
+          extended: true
 
       - name: Build
         run: hugo --minify
