@@ -62,9 +62,9 @@ weight = 20
 [Languages.en-us.params.author]
 avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
 # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-intro = "My funcking life as a Software Engineer"
+intro = "My fucking life as a Software Engineer"
 name = "Quang Khải Đàm"
-description = "Lemmi tell you a story about coder life"
+description = "Lemmi tell you a story ..."
 
 # # Allow to override webmanifest options
 [Languages.en-us.params.webmanifest]
