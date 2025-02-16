@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'DQK Dev Blog'
 theme = "hugo-blog-awesome"
 
-defaultContentLanguage = "en-us"
+defaultContentLanguage = "vi-vn"
 
 [[params.socialIcons]]
 name = "github"
@@ -119,9 +119,9 @@ weight = 20
 [Languages.vi-vn.params.author]
 avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
 # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-intro = "Cuộc sống đầy drama của một lập trình viên"
+intro = "Nơi lưu trữ những suy nghĩ, kiến thức và trải nghiệm cá nhân của mình"
 name = "Quang Khải Đàm"
-description = "Để tui kể cho bạn nghe ..."
+description = "Vì hạn chế tiếng Anh (cảm thấy không tự tin lắm) và muốn chia sẻ một cách cảm xúc nhất nên mình sẽ sử dụng tiếng Việt và ngôn ngữ của mình để chia sẻ các chủ đề xung quanh cuộc sống của mình. Mục đích của blog này là để mình ở tương lai có tư liệu tham khảo lại mình của quá khứ, để xem mình đã đi được bao lâu và bao xa trên hành trình của bản thân. Blog này không chỉ bao gồm suy nghĩ mà còn về các kiến thức xung quanh các chủ đề như Toán học, Lập trình, Nghiên cứu AI, Sách, ... Hy vọng có thể giúp ích cho bất kì ai trên thế giới này.\n Note: Mình sẽ cố gắng cải thiện khả năng viết tiếng Anh nhưng chưa phải là năm nay (2025)."
 
 # # Allow to override webmanifest options
 [Languages.vi-vn.params.webmanifest]
