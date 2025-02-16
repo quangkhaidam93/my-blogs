@@ -15,6 +15,6 @@ Nội dung của cuốn sách chủ yếu xoay quanh sự nghiệp của CEO qu�
 
 Bìa sách ở đây nha (chắc tương lai gần phải gắn link mua hàng để kiếm thêm thu nhập quá 😁)
 
-![Tỷ phú bán giày - Delivering Happiness]("images/avatar.jpg")
+![Tỷ phú bán giày - Delivering Happiness](images/avatar.jpg)
 
 **Note:** có một tin không vui là mặc dù triết lý từ cuốn sách rất tốt nhưng không hiểu sao về cuối đời Tony Hseih lại có những suy nghĩ không tưởng và có cái kết không mấy có hậu. Các bạn có thể tìm hiểu thêm về thông tin này trên google. Cá nhân mình nghĩ chắc sự thành công đến sớm làm ổng không còn mục tiêu nào to lớn nữa, nên mới dẫn đến những suy nghĩ "kì lạ" vào cuối đời như vậy.
